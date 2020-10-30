@@ -4,7 +4,7 @@ Hi. My Name is Ervalsa Dwi Nanda. Wish me luck at Institute of Technology Kalima
 
 My best experience is participate at Lomba Keterampilan Siswa Tingkat Nasional at Yogyakarta in 2019.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=wival08&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=wival08&show_icons=true&theme=dracula)
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=RPG-BATTLE&theme=gruvbox)](https://github.com/wival08/RPG-Battle)
 
