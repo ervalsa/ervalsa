@@ -1,6 +1,6 @@
 ## Hi There! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Hello
+Hi. My Name is Ervalsa Dwi Nanda. I just wanna be a Software Engineer.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=wival08&show_icons=true&theme=radical)
 
