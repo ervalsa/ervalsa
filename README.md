@@ -7,6 +7,7 @@ My best experience is participate at Lomba Keterampilan Siswa Tingkat Nasional a
 ![github stats](https://github-readme-stats.vercel.app/api?username=wival08&show_icons=true&theme=dracula)
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=RPG-BATTLE&theme=dracula)](https://github.com/wival08/RPG-Battle)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=RPG-BATTLE&theme=dracula)](https://github.com/wival08/Dicoding-BAJP-Submission1)
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=wival08&layout=compact&theme=dracula)
 
