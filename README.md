@@ -12,6 +12,6 @@
 
 
 <a href="https://www.instagram.com/ervalsananda" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
-<a href="https://www.linkedin.com/azhar-rivaldi" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
-<a href="https://www.twitter.com/azharrvldi_" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="32px" alt="Twitter"></a>
-<a href="https://www.youtube.com/AzharRivaldiDev" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a>
+<a href="https://www.linkedin.com/ervalsa-dwi-nanda" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
+<a href="https://www.twitter.com/ErvalsaDN" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="32px" alt="Twitter"></a>
+<a href="https://www.youtube.com/Ervalsa Dwi Nanda" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height="32px" alt="Youtube"></a>
