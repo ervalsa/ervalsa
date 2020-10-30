@@ -3,11 +3,8 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=wival08&show_icons=true&theme=radical)
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=RPG-BATTLE&theme=gruvbox)](https://github.com/wival08/RPG-Battle)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=ResepMakanan&theme=dracula)](https://github.com/AzharRivaldi/ResepMakanan)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=Music-Player&theme=highcontrast)](https://github.com/AzharRivaldi/Music-Player)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08repo=WisataPurwakarta&theme=tokyonight)](https://github.com/AzharRivaldi/WisataPurwakarta)
 
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzharRivaldi&layout=compact&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=wival08&layout=compact&theme=nightowl)
 
 
 
