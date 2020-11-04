@@ -9,7 +9,7 @@ My best experience is participate at Lomba Keterampilan Siswa Tingkat Nasional a
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=RPG-BATTLE&theme=tokyonight)](https://github.com/wival08/RPG-Battle)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=Dicoding-BAJP-Submission1&theme=tokyonight)](https://github.com/wival08/Dicoding-BAJP-Submission1)
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=Todo-List-Android-Kotlin-Room&theme=default)](https://github.com/wival08/Todo-List-Android-Kotlin-Room)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=Todo-List-Android-Kotlin-Room&theme=tokyonight)](https://github.com/wival08/Todo-List-Android-Kotlin-Room)
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=wival08&layout=compact&theme=prussian)
 
