@@ -1,4 +1,4 @@
-## Hi There! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello There! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 Hi. My Name is Ervalsa Dwi Nanda. Wish me luck at Institute of Technology Kalimantan. I know Kotlin, Python, VB.NET, less Java.
 
