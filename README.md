@@ -16,4 +16,5 @@ My best experience is participate at Lomba Keterampilan Siswa Tingkat Nasional a
 
 <a href="https://www.instagram.com/ervalsananda" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
 <a href="https://www.twitter.com/ErvalsaDN" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="32px" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/ervalsa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
 
