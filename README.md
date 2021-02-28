@@ -4,13 +4,13 @@ Hi. My Name is Ervalsa Dwi Nanda. Wish me luck at Institute of Technology Kalima
 
 My best experience is participate at Lomba Keterampilan Siswa Tingkat Nasional at Yogyakarta in 2019.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=wival08&show_icons=true&theme=default)
+![github stats](https://github-readme-stats.vercel.app/api?username=ervalsa-san&show_icons=true&theme=default)
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=RPG-BATTLE&theme=default)](https://github.com/wival08/RPG-Battle)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=Dicoding-BAJP-Submission1&theme=default)](https://github.com/wival08/Dicoding-BAJP-Submission1)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=wival08&repo=All-Hello-World-Programming-Language&theme=default)](https://github.com/wival08/All-Hello-World-Programming-Language)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=ervalsa-san&repo=RPG-BATTLE&theme=default)](https://github.com/ervalsa-san/RPG-Battle)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=ervalsa-san&repo=Dicoding-BAJP-Submission1&theme=default)](https://github.com/ervalsa-san/Dicoding-BAJP-Submission1)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=ervalsa-san&repo=All-Hello-World-Programming-Language&theme=default)](https://github.com/ervalsa-san/All-Hello-World-Programming-Language)
 
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=wival08&layout=compact&theme=vue)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ervalsa-san&layout=compact&theme=vue)
 
 
 <a href="https://www.instagram.com/ervalsananda" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
