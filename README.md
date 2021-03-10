@@ -9,6 +9,7 @@ My best experience is participate at Lomba Keterampilan Siswa Tingkat Nasional a
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=ervalsa-san&repo=RPG-BATTLE&theme=default)](https://github.com/ervalsa-san/RPG-Battle)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=ervalsa-san&repo=Dicoding-BAJP-Submission1&theme=default)](https://github.com/ervalsa-san/Dicoding-BAJP-Submission1)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=ervalsa-san&repo=All-Hello-World-Programming-Language&theme=default)](https://github.com/ervalsa-san/All-Hello-World-Programming-Language)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=ervalsa-san&repo=MOV-App&theme=default)](https://github.com/ervalsa-san/MOV-App)
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ervalsa-san&layout=compact&theme=vue)
 
