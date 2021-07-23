@@ -1,8 +1,6 @@
 ## Hello There! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Hi. My Name is Ervalsa Dwi Nanda. Wish me luck at Institute of Technology Kalimantan. I know Kotlin, Python, VB.NET, less Java.
-
-My best experience is participate at Lomba Keterampilan Siswa Tingkat Nasional at Yogyakarta in 2019.
+Informatics Student at Kalimantan Institute of Technology.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ervalsa-san&show_icons=true&theme=default)
 
