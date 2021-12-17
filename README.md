@@ -25,5 +25,5 @@ I'm Ervalsa Dwi Nanda from Indonesia and I do content on Gaming and Development.
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ervalsa-san&background=1B212F&border=1B212F&ring=F08080&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=66718F&fire=F08080&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" width="96%">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ervalsa-san&border_radius=0&hide_border=true&show_icons=true&bg_color=1B212F&text_color=FFFFFF" height="200px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervalsa-san&border_radius=0&hide_border=true&layout=compact&bg_color=1B212F&text_color=FFFFFF" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ervalsa-san&border_radius=0&hide_border=true&show_icons=true&bg_color=1B212F&text_color=FFFFFF" height="160px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervalsa-san&border_radius=0&hide_border=true&layout=compact&bg_color=1B212F&text_color=FFFFFF" height="160px">
 </p>
