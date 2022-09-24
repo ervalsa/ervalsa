@@ -13,7 +13,7 @@
 <!-- Name Section -->
 
 <!-- Banner Section -->
-![](https://github.com/ervalsa-san/ervalsa-san/blob/main/Banner%20Github.png)
+![](https://github.com/ervalsa-san/ervalsa-san/blob/main/banner.png)
 
 <!-- Name Section -->
 ## Ervalsa Dwi Nanda
